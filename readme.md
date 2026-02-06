@@ -20,4 +20,4 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 
 | Document | Presentation |
 |:-------:| :-------: |
-| [DOCUMENTATION DOWNLOAD](Documentation\Shreenandan Sahu 120BM0806.pdf) | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+| [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) |

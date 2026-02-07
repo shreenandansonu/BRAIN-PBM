@@ -1,0 +1,12 @@
+1.	1. AT            // Check if the module is responding.
+2.	2. AT+VERSION    // Get firmware version.
+3.	3. AT+NAME="NewName"   // Set or get the Bluetooth device name.
+4.	4. AT+ADDR?      // Get the Bluetooth address.
+5.	5. AT+ROLE=x     // Set or get the role of the module (Master or Slave).
+6.	6. AT+CMODE=x    // Set or get the connection mode.
+7.	7. AT+RESET      // Restart the module.
+8.	8. AT+UART=x,y   // Set or get the UART configuration (Baud rate, stop bits, parity).
+9.	9. AT+PSWD="NewPassword"  // Set or get the password.
+10.	10. AT+ROLE?     // Query the current role of the module.
+11.	11. AT+INQM=x,y,z   // Set or get inquiry parameters.
+12.	12. AT+INQ       // Make the module discoverable.

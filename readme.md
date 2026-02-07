@@ -45,6 +45,8 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 | :-------------------------------------------: | :-------------------------: |
 | ![](/images/image%2024.png)  |  ![](/images/image%2023.png) |
 
+![Working Device](/images/working%20device.png)
+
 
 ### APP UI and structure
 

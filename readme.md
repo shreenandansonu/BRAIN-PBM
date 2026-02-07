@@ -35,6 +35,9 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 | :-------------------------------------------: | :-------------------------: |
 | ![](/images/Head%20Unit.png)  |  ![](/images/Control%20Unit.png) |
 
+<embed src="/Documentation/120BM0806 Shreenandan Sahu.pdf" type="application/pdf" width="100%" height="600px" />
+
+
 ### Poster Presentation
 ![Poster](/images/STW%20Poster%20Presentation%20Shreenandan%20Sahu.png)
 

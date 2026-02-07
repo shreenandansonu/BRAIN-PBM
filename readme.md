@@ -35,7 +35,20 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 | :-------------------------------------------: | :-------------------------: |
 | ![](/images/Head%20Unit.png)  |  ![](/images/Control%20Unit.png) |
 
-<embed src="/Documentation/120BM0806 Shreenandan Sahu.pdf" type="application/pdf" width="100%" height="600px" />
+### Final Product
+
+| Human Head Unit | Pocket Unit |
+| :-------------------------------------------: | :-------------------------: |
+| ![](/images/Human%20Head%20Unit.png)  |  ![](/images/Pocket%20Unit.png) |
+
+| RED LED | 830nm LED |
+| :-------------------------------------------: | :-------------------------: |
+| ![](/images/image%2024.png)  |  ![](/images/image%2023.png) |
+
+
+### APP UI and structure
+
+![APP UI](/images/app.png)
 
 
 ### Poster Presentation

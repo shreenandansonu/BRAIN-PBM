@@ -19,7 +19,7 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 ### Documentation
 
 | Document | Presentation | Poster |
-|:-------:| :-------: |
+|:-------:| :-------: | :-------: |
 | [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) | [DOWNLOAD](/Documentation/STW%20Poster%20Presentation%20Shreenandan%20Sahu.pdf) |
 
 
@@ -37,3 +37,5 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 
 ### Poster Presentation
 ![Poster](/images/STW%20Poster%20Presentation%20Shreenandan%20Sahu.png)
+
+![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU-5a189a?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-INDIA-a53860?style=flat-square) 

@@ -1,4 +1,4 @@
-![Institute](https://img.shields.io/badge/Institute-NIT%20Rourkela-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Device%20Development-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtube.com/shorts/7qIoNEi0Ulo)
+![Institute](https://img.shields.io/badge/Institute-NIT%20Rourkela-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Device%20Development-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtube.com/shorts/7qIoNEi0Ulo) [![Website](https://img.shields.io/badge/Website-link-5c21bc?style=flat-square) ](https://brainpbm.netlify.app/)
 
 <p align ="center">
     <a href="https://shreenandansahu.netlify.app/">

@@ -1,11 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BRAIN PBM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=0">
+    <title>BRAIN-PBM</title>
+
+    <!-- Google Font: Oswald -->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --primary: #EDA155;
+            --dark: #393939;
+            --light: #FFFCED;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            height: 100vh;
+            font-family: 'Oswald', sans-serif;
+            background: linear-gradient(rgba(57, 57, 57, 0.85), rgba(57, 57, 57, 0.85)),
+                url('/images/Pocket\ Unit.png');
+            /* 🔹 Replace with your background image */
+            background-size: contain;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--light);
+            text-align: center;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 500px;
+            padding: 40px;
+            background: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(8px);
+            border-radius: 16px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+
+        p {
+            margin-bottom: 30px;
+            font-size: 1rem;
+            color: var(--light);
+        }
+
+        .btn {
+            display: block;
+            margin: 15px 0;
+            padding: 15px;
+            text-decoration: none;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            background: var(--primary);
+            color: var(--dark);
+            transition: 0.3s ease;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background: var(--light);
+            color: var(--dark);
+            transform: translateY(-3px);
+        }
+
+        footer {
+            margin-top: 20px;
+            font-size: 0.8rem;
+            opacity: 0.6;
+            color: var(--light);
+        }
+        footer p{
+            color: white;
+        }
+        #logo{
+            height: 100px;
+        }
+    </style>
 </head>
+
 <body>
-    SHREENANDAN SAHU
+
+    <div class="container">
+        <img id="logo" src="/images/logo.png" alt="">
+        <h1>BRAIN-PBM</h1>
+        <p>Photobiomodulation Therapy Device</p>
+
+        <a class="btn" href="https://github.com/shreenandansonu/BRAIN-PBM" target="_blank">
+            View Repository
+        </a>
+        <a class="btn" href="https://www.youtube.com/shorts/7qIoNEi0Ulo" target="_blank">
+            View Demo
+        </a>
+        <a class="btn" href="/Documentation/120BM0806 Shreenandan Sahu.pdf" target="_blank">
+            View Report
+        </a>
+        <a class="btn" href="https://github.com/shreenandansonu/BRAIN-PBM/APP/brainpbm.apk" target="_blank">
+            Download App
+        </a>
+
+
+
+        <footer>
+           <p> Built by Shreenandan | Made In INDIA</p>
+        </footer>
+    </div>
+
 </body>
+
 </html>

@@ -24,7 +24,7 @@
         }
 
         body {
-            height: 100vh;
+            height: 130vh;
             font-family: 'Oswald', sans-serif;
             background: linear-gradient(rgba(13, 27, 216, 0.164), rgba(250, 7, 7, 0.315)),
                 url('/images/bg.png');
@@ -94,6 +94,15 @@
         #logo:hover{
             transform: translateY(-3px);
         }
+        #hero{
+            width: 100%;
+            border-radius: 3%;
+            filter: grayscale();
+        }
+        #hero:hover{
+            filter: none;
+            transform: translateY(-3px);
+        }
     </style>
 </head>
 
@@ -116,6 +125,7 @@
         <a class="btn" href="https://github.com/shreenandansonu/BRAIN-PBM/APP/brainpbm.apk" target="_blank">
             Download App
         </a>
+        <img id="hero" src="/images/bg.png">
 
 
 
